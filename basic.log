@@ -1,0 +1,50 @@
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 21:08:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 21:08:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Страница поиского запроса: запрошена
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 21:08:19] "GET /search?s=рома+гей HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 21:08:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 21:16:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 21:16:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Страница поиского запроса: запрошена
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 21:16:26] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 21:16:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 21:16:35] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 21:16:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 21:16:55] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 21:16:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 21:16:55] "GET /uploads/images/2023-01-11%2000.11.09.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 21:17:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 21:17:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Страница поиского запроса: запрошена
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 21:17:09] "GET /search?s=хуй HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 21:17:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 21:38:52] "GET /post HTTP/1.1" 200 -
+INFO:root:Страница поиского запроса: запрошена
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 21:39:00] "GET /search?s=json+dump HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 21:39:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 22:08:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 22:08:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 22:08:56] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 22:08:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 22:09:16] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 22:09:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 22:09:16] "GET /uploads/images/2023-01-11%2000.11.09.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 22:09:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 22:09:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Страница поиского запроса: запрошена
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 22:09:21] "GET /search?s=мой HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 22:09:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 22:09:21] "[36mGET /uploads/images/2023-01-11%2000.11.09.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 22:09:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 22:09:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Страница поиского запроса: запрошена
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 22:09:31] "GET /search?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 22:09:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Jan/2023 22:09:31] "[36mGET /uploads/images/2023-01-11%2000.11.09.jpg HTTP/1.1[0m" 304 -
